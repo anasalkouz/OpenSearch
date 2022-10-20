@@ -3,6 +3,7 @@
 [![Chat](https://img.shields.io/badge/chat-on%20forums-blue)](https://forum.opensearch.org/c/opensearch/)
 [![Documentation](https://img.shields.io/badge/documentation-reference-blue)](https://opensearch.org/docs/latest/opensearch/index/)
 [![codecov](https://codecov.io/gh/opensearch-project/OpenSearch/branch/main/graph/badge.svg)](https://codecov.io/gh/opensearch-project/OpenSearch)
+[![Untriaged Issues](https://img.shields.io/github/issues/opensearch-project/opensearch/untriaged?label=Untriaged%20Issues&style=plastic)](https://github.com/opensearch-project/OpenSearch/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Auntriaged)
 [![GHA gradle check](https://github.com/opensearch-project/OpenSearch/actions/workflows/gradle-check.yml/badge.svg)](https://github.com/opensearch-project/OpenSearch/actions/workflows/gradle-check.yml)
 [![GHA validate pull request](https://github.com/opensearch-project/OpenSearch/actions/workflows/wrapper.yml/badge.svg)](https://github.com/opensearch-project/OpenSearch/actions/workflows/wrapper.yml)
 [![GHA precommit](https://github.com/opensearch-project/OpenSearch/actions/workflows/precommit.yml/badge.svg)](https://github.com/opensearch-project/OpenSearch/actions/workflows/precommit.yml)
